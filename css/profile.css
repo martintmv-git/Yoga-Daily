@@ -1,0 +1,231 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.linh-nguyen-h1 {
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 64.76px);
+  right: 0;
+  left: 0;
+  font-size: inherit;
+  line-height: 34px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.membership {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.p {
+  margin: 0;
+}
+.avatar-6-icon,
+.linh-nguyen-div {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.linh-nguyen-div {
+  top: calc(50% - -135.39px);
+  line-height: 34px;
+  font-weight: 600;
+  display: inline-block;
+}
+.avatar-6-icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.avatar-div {
+  position: absolute;
+  height: 25.14%;
+  width: 29.05%;
+  top: 0;
+  right: 35.47%;
+  bottom: 74.86%;
+  left: 35.47%;
+}
+.user-div {
+  position: relative;
+  width: 794.39px;
+  height: 406.77px;
+  flex-shrink: 0;
+}
+.membership-div {
+  position: absolute;
+  top: calc(50% - 284.77px);
+  left: calc(50% - 397.1px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 24px;
+}
+.buttonnavigation-icon {
+  position: absolute;
+  height: 38.58%;
+  width: 17.09%;
+  top: 30.54%;
+  right: 41.6%;
+  bottom: 30.88%;
+  left: 41.31%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.setting-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  width: 16.61%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 83.39%;
+}
+.your-profile-h1 {
+  margin: 0;
+  position: absolute;
+  width: 54.27%;
+  top: calc(50% - 12.11px);
+  right: 22.9%;
+  left: 22.83%;
+  font-size: inherit;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  height: 26.83px;
+}
+.close-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  width: 16.61%;
+  top: 0;
+  right: 83.39%;
+  bottom: 0;
+  left: 0;
+}
+.background-div,
+.close-button,
+.header-div {
+  position: absolute;
+}
+.header-div {
+  height: 7.12%;
+  width: 92.8%;
+  top: 4.81%;
+  right: 3.47%;
+  bottom: 88.08%;
+  left: 3.73%;
+}
+.background-div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 16px;
+  background-color: #a68b86;
+}
+.button-a {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 41.5px);
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: Arial;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.button-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.buttonedit {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 379px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.button-a1 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 30.5px);
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: Arial;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.frame-div {
+  position: absolute;
+  top: calc(50% - -163px);
+  left: calc(50% - 189.5px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 41px;
+}
+.email {
+  position: absolute;
+  top: calc(50% - 112px);
+  left: calc(50% - 59.5px);
+  line-height: 26px;
+  font-family: Arial;
+  color: inherit;
+  text-align: left;
+  display: inline-block;
+  width: 119px;
+  height: 56px;
+}
+.picprofile-icon {
+  position: absolute;
+  top: calc(50% - 333px);
+  left: calc(50% - 85.5px);
+  width: 171px;
+  height: 171px;
+  object-fit: cover;
+}
+.profilejounery-div {
+  position: relative;
+  background-color: #faeee7;
+  width: 100%;
+  height: 874px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #040415;
+  font-family: Poppins;
+}
+p:hover{
+  color: #333333;
+}

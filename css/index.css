@@ -1,0 +1,366 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-button,
+.rectangle-button1,
+.rectangle-button3,
+.rectangle-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fffffe;
+  position: absolute;
+  top: 582px;
+  left: 16px;
+  border-radius: 40px;
+  width: 350px;
+  height: 50px;
+}
+.rectangle-button1,
+.rectangle-button3,
+.rectangle-button4 {
+  top: 640px;
+}
+.rectangle-button3,
+.rectangle-button4 {
+  top: 698px;
+}
+.rectangle-button4 {
+  top: 756px;
+}
+.yogaposecover-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 351px;
+  object-fit: cover;
+}
+.headingyoga-h3 {
+  margin: 0;
+  position: absolute;
+  top: 166px;
+  left: 30px;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: inherit;
+  color: #fffffe;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.iconarrow-forward {
+  position: absolute;
+  top: 382px;
+  left: 326px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.easy-pose-b,
+.label2-div {
+  position: absolute;
+  display: inline-block;
+}
+.label2-div {
+  top: 520px;
+  left: 30px;
+  font-weight: 600;
+}
+.easy-pose-b {
+  top: 594px;
+  left: 58px;
+}
+.seated-neck-stretch,
+.seated-twist-left,
+.seated-twist-right {
+  position: absolute;
+  top: 654px;
+  left: 58px;
+  display: inline-block;
+}
+.seated-twist-left,
+.seated-twist-right {
+  top: 709px;
+}
+.seated-twist-right {
+  top: 765px;
+}
+.color-icon {
+  position: absolute;
+  height: 41.67%;
+  width: 20.83%;
+  top: 29.17%;
+  right: 37.5%;
+  bottom: 29.17%;
+  left: 41.67%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.expandbtn-button,
+.expandbtn-button1,
+.expandbtn-button2,
+.expandbtn-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 592px;
+  left: 319px;
+  width: 30px;
+  height: 30px;
+}
+.expandbtn-button1,
+.expandbtn-button2,
+.expandbtn-button3 {
+  top: 651px;
+  left: 318px;
+}
+.expandbtn-button2,
+.expandbtn-button3 {
+  top: 706px;
+}
+.expandbtn-button3 {
+  top: 762px;
+}
+.rectangle-button5,
+.rectangle-button6,
+.rectangle-button8,
+.rectangle-button9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fffffe;
+  position: absolute;
+  top: 814px;
+  left: 16px;
+  border-radius: 40px;
+  width: 350px;
+  height: 50px;
+}
+.rectangle-button6,
+.rectangle-button8,
+.rectangle-button9 {
+  top: 872px;
+}
+.rectangle-button8,
+.rectangle-button9 {
+  top: 930px;
+}
+.rectangle-button9 {
+  top: 988px;
+}
+.easy-pose-b1 {
+  position: absolute;
+  top: 826px;
+  left: 58px;
+  display: inline-block;
+}
+.seated-neck-stretch1,
+.seated-twist-left1,
+.seated-twist-right1 {
+  position: absolute;
+  top: 886px;
+  left: 58px;
+  display: inline-block;
+}
+.seated-twist-left1,
+.seated-twist-right1 {
+  top: 941px;
+}
+.seated-twist-right1 {
+  top: 997px;
+}
+.expandbtn-button4,
+.expandbtn-button5,
+.expandbtn-button6,
+.expandbtn-button7,
+.rectangle-button10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 824px;
+  left: 319px;
+  width: 30px;
+  height: 30px;
+}
+.expandbtn-button5,
+.expandbtn-button6,
+.expandbtn-button7,
+.rectangle-button10 {
+  top: 883px;
+  left: 318px;
+}
+.expandbtn-button6,
+.expandbtn-button7,
+.rectangle-button10 {
+  top: 938px;
+}
+.expandbtn-button7,
+.rectangle-button10 {
+  top: 994px;
+}
+.rectangle-button10 {
+  background-color: #fffffe;
+  top: 440px;
+  left: 16px;
+  border-radius: 40px;
+  width: 350px;
+  height: 50px;
+}
+.workout-settings-b {
+  position: absolute;
+  top: 452px;
+  left: 87px;
+  display: inline-block;
+}
+.arrow2-icon,
+.outline-timer-black-24pt-3x-1-icon {
+  position: absolute;
+  top: 447px;
+  width: 36px;
+  height: 36px;
+}
+.arrow2-icon {
+  left: 326px;
+  overflow: hidden;
+}
+.outline-timer-black-24pt-3x-1-icon {
+  left: 36px;
+  object-fit: cover;
+}
+.label1-div,
+.textbox1-div {
+  position: absolute;
+  left: 30px;
+  display: inline-block;
+}
+.label1-div {
+  top: 263px;
+  font-weight: 600;
+  color: #33272a;
+  width: 310px;
+  height: 26px;
+}
+.textbox1-div {
+  top: 290px;
+  color: #ffffff;
+  width: 90%;
+  height: 55px;
+}
+.rectangle-button11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fffffe;
+  position: absolute;
+  top: 375px;
+  left: 16px;
+  border-radius: 40px;
+  width: 350px;
+  height: 50px;
+}
+.music-settings-b {
+  position: absolute;
+  top: 387px;
+  left: 87px;
+  display: inline-block;
+}
+.outline-headset-black-24pt-3x-icon {
+  position: absolute;
+  top: 382px;
+  left: 36px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-radius: 40px;
+  background-color: #a68b86;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 70px;
+}
+.start-div {
+  position: absolute;
+  bottom: 23px;
+  left: 45%;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 53px;
+  left: 20px;
+  width: 350px;
+  height: 70px;
+}
+.back-icon {
+  position: absolute;
+  height: 41.67%;
+  width: 20.83%;
+  top: 29.17%;
+  right: 41.67%;
+  bottom: 29.17%;
+  left: 37.5%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.backbutton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #33272a;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border-radius: 40px;
+  width: 36px;
+  height: 36px;
+  opacity: 0.5;
+}
+.heart-icon,
+.markfav-button {
+  position: absolute;
+  top: 7.16px;
+  left: 6.8px;
+  width: 23.27px;
+  height: 21.52px;
+}
+.markfav-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #33272a;
+  top: 29px;
+  left: 322px;
+  border-radius: 40px;
+  width: 36px;
+  height: 36px;
+  opacity: 0.5;
+}
+.morning-yoga-div {
+  position: relative;
+  background-color: #faeee7;
+  width: 100%;
+  height: 1233px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Poppins;
+}
